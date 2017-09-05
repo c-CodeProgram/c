@@ -2,3 +2,5 @@ stack:
 	stack.c 
 queue:
 	queue.c
+list:
+	single_list.c
